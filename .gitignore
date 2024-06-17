@@ -1,0 +1,17 @@
+.DS_Store
+*.hcl
+walle
+*.log
+*.log*
+
+.build/
+vendor/
+.vscode/
+.idea/
+databases/
+*__debug_*
+.VSCodeCounter/
+*.xml
+*.xlsx
+*.xls
+.env
